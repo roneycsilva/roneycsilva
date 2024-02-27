@@ -1,8 +1,4 @@
 ### Olá! Sou Roney Cesar 
-<p align="left">
-Com vasta experiência na área comercial, atualmente estou direcionando meu foco para o desenvolvimento em sistemas. Em busca de novos desafios e oportunidades, estou dedicando minha energia para aprimorar minhas habilidades no campo do desenvolvimento e contribuir significativamente para projetos inovadores.    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
-</p>
-
 - 🔭 Cielo Tech.
 - 🌱 Análise em Desenvolvimento de Sistemas - Faculdade Anhanguera.
 - 👯 Estou procurando colaborar e aprofundar os estudos em programação, especialmente em Salesforce.
