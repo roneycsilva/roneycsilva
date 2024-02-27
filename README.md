@@ -1,4 +1,4 @@
-### Olá! Sou Roney Cesar 
+## Olá! Sou Roney Cesar!
 - 🔭 Cielo Tech.
 - 🌱 Análise em Desenvolvimento de Sistemas - Faculdade Anhanguera.
 - 👯 Estou procurando colaborar e aprofundar os estudos em programação, especialmente em Salesforce.
@@ -16,6 +16,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=roneycsilva&show_icons=true" />
 </picture>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Roney-Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
