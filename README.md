@@ -3,7 +3,7 @@
 - 🌱 Análise em Desenvolvimento de Sistemas - Faculdade Anhanguera.
 - 👯 Estou procurando colaborar e aprofundar os estudos em programação, especialmente em Salesforce.
 - 📫 roneycsilva@gmail.com
-- ⚡ Sou artista plástico e trabalho com artes digitais nas horas vagas.
+- ⚡ Artista plástico e trabalho com artes digitais nas horas vagas.
 
 <picture>
   <source
