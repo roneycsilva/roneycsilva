@@ -1,4 +1,7 @@
 ### Olá! Sou Roney Cesar 
+<p align="left">
+Com vasta experiência na área comercial, atualmente estou direcionando meu foco para o desenvolvimento em sistemas. Em busca de novos desafios e oportunidades, estou dedicando minha energia para aprimorar minhas habilidades no campo do desenvolvimento e contribuir significativamente para projetos inovadores.    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
+</p>
 
 - 🔭 Cielo Tech.
 - 🌱 Análise em Desenvolvimento de Sistemas - Faculdade Anhanguera.
@@ -26,9 +29,8 @@
   <img align="center" alt="Roney-Python" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
     
 ##
-
 <div> 
   <a href="https://www.linkedin.com/in/roneycsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
+
 </div>
