@@ -1,13 +1,13 @@
-## Olá! Sou Roney Cesar!
-- 🔭 Cielo Tech.
-- 🌱 Análise em Desenvolvimento de Sistemas - Faculdade Anhanguera.
-- 👯 Estou procurando colaborar e aprofundar os estudos em programação, especialmente em Salesforce.
+## Olá! Sou Roney Cesar!👋
+- 💻Cielo Tech.
+- 👨‍🎓 Análise em Desenvolvimento de Sistemas - Faculdade Anhanguera.
+- 🤹 Estou procurando colaborar e aprofundar os estudos em programação, especialmente em Salesforce.
 - 📫 roneycsilva@gmail.com
-- ⚡ Artista plástico e trabalho com artes digitais nas horas vagas.
+- 🧑‍🎨💻 Artista plástico e trabalho com artes digitais nas horas vagas.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=roneycsilva&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=roneycsilva&show_icons=true&theme=great-gatsby"
     media="(prefers-color-scheme: dark)"
   />
   <source
