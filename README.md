@@ -20,9 +20,6 @@ Com vasta experiência na área comercial, atualmente estou direcionando meu foc
   />
   <img src="https://github-readme-stats.vercel.app/api?username=roneycsilva&show_icons=true" />
 </picture>
-
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Roney-Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
   <img align="center" alt="Roney-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
