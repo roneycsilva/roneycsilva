@@ -39,7 +39,8 @@ Estou entusiasmado em aplicar meu conjunto diversificado de habilidades e contri
   <img align="center" alt="Roney-Slack" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
     <img align="center" alt="Roney-Oracle" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
       <img align="center" alt="Roney-mysql" height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    
+          <img align="center" alt="Roney-mysql" height="50" width="65"src="https://github.com/roneycsilva/Algoritmos_Programa-o_Estruturada/assets/61150519/af00e3ed-fac0-48f1-b0e9-1025ccb52911" />
+
     
 ##
 <div> 
