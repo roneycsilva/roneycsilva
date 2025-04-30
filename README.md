@@ -9,14 +9,9 @@
 
 Apresentação:
 
-Profissional em transição da área comercial para a tecnologia. Atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera, focado em aprimorar habilidades em Python, Salesforce, e em gerenciamento de bancos de dados como Oracle e MySQL.
+Profissional da área de tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera. Atuo com foco em produtos e projetos piloto, buscando constantemente aprimorar habilidades em Python, Salesforce e no gerenciamento de bancos de dados como Oracle e MySQL.
 
-Com uma sólida bagagem em atendimento ao cliente, combinada com os estudos em tecnologia.
-Meu objetivo pós-formação é realizar uma pós-graduação em Gestão de Projetos e Inteligência Artificial.
-
-Minha experiência na área comercial me proporcionou sólidas habilidades interpessoais, uma mentalidade focada em resultados e uma visão estratégica. Essa transição para a tecnologia me torna um profissional único, capaz de abordar desafios de maneira inovadora.
-
-Estou entusiasmado em aplicar meu conjunto diversificado de habilidades e contribuir para projetos desafiadores. Estou comprometido com o aprendizado contínuo e ansioso para enfrentar novos desafios nesta área em constante evolução.
+Minha vivência com atendimento ao cliente me proporcionou sólidas habilidades interpessoais, foco em resultados e visão estratégica — qualidades que contribuem para uma atuação técnica com olhar orientado ao negócio.
 
 ##
 
