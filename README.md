@@ -57,7 +57,7 @@ Utilizo este GitHub para compartilhar **projetos práticos, estudos e experiment
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/API%20REST-005571?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20REST-005571?style=for-the-badge"/>
 </p>
 
 ---
@@ -76,7 +76,8 @@ Utilizo este GitHub para compartilhar **projetos práticos, estudos e experiment
   <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38"/>
 </p>
 
 ---
@@ -85,7 +86,7 @@ Utilizo este GitHub para compartilhar **projetos práticos, estudos e experiment
 
 #### ☁️ Cloud & Infra  
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-F8991D?style=for-the-badge&logo=amazonaws&logoColor=black"/>
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
 </p>
@@ -94,13 +95,13 @@ Utilizo este GitHub para compartilhar **projetos práticos, estudos e experiment
 
 #### 💻 Linguagens & Desenvolvimento  
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python%20(em%20estudo)-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </p>
 
 ---
 
-#### 🗄️ Bancos & Arquitetura (NoSQL)  
+#### 🗄️ Bancos & Arquitetura  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
 </p>
@@ -110,8 +111,9 @@ Utilizo este GitHub para compartilhar **projetos práticos, estudos e experiment
 #### 🧩 Automação & Low-code  
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blip-00A4E4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Blip-00C1D4?style=for-the-badge"/>
 </p>
+
 
 ---
 
