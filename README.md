@@ -48,80 +48,30 @@ Utilizo este GitHub para compartilhar **projetos práticos, estudos e experiment
 
 ### 🟢 Uso profissional / prática recorrente  
 
-#### 💳 Produto, Integrações & Operações  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/API%20REST-005571?style=for-the-badge"/>
-</p>
-
----
-
-#### 🧠 Dados, Analytics & BI  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="42"/>
-  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
----
-
-#### 🔄 Metodologias & Colaboração  
-<p>
-  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38"/>
-</p>
+| Área | Tecnologias |
+|:--|:--|
+| 💳 Produto & Operações | Postman · Salesforce · Jira · Zendesk · Slack |
+| 🔌 APIs & Integrações | API REST (consumo, testes e validação) |
+| 📊 Dados & BI | MySQL · Metabase · Power BI |
+| 🔄 Metodologias & Colaboração | Scrum · Office 365 · Microsoft Teams · Miro · Figma |
+| 🗄️ Bancos & Arquitetura | Bancos Relacionais (MySQL) |
 
 ---
 
 ### 🟡 Em estudo contínuo / projetos práticos  
 
-#### ☁️ Cloud & Infra  
-<p>
-  <img src="https://img.shields.io/badge/AWS-F8991D?style=for-the-badge&logo=amazonaws&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-</p>
-
----
-
-#### 💻 Linguagens & Desenvolvimento  
-<p>
-  <img src="https://img.shields.io/badge/Python%20(em%20estudo)-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-</p>
-
----
-
-#### 🗄️ Bancos & Arquitetura  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-</p>
-
----
-
-#### 🧩 Automação & Low-code  
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blip-00C1D4?style=for-the-badge"/>
-</p>
-
+| Área | Tecnologias |
+|:--|:--|
+| ☁️ Cloud & Infra | AWS (fundamentos) · Railway · Docker |
+| 💻 Linguagens | Python (em estudo) · Java (em estudo) |
+| 🗃️ Bancos & Arquitetura | NoSQL (MongoDB) |
+| 🤖 Automação & Low-code | n8n · Blip |
 
 ---
 
 📌 **Legenda**  
 🟢 Uso profissional / prática recorrente  
 🟡 Estudo contínuo / projetos práticos  
-
- 
 
 ---
 
