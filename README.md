@@ -28,9 +28,7 @@ Paralelamente, desenvolvo projetos práticos voltados para backend, dados, mensa
 
 ---
 
----
-
-## 🚀 Projetos Técnicos em Destaque
+## 🚀 Projetos Técnicos em Destaque  
 
 Além da atuação em operações de produto, utilizo este GitHub para desenvolver e documentar projetos voltados a backend, dados e arquitetura de sistemas:
 
@@ -40,8 +38,20 @@ Além da atuação em operações de produto, utilizo este GitHub para desenvolv
 - 🔗 **Persistência NoSQL (MongoDB)**
 - 🔗 **Deploy e ambientes em nuvem (Railway)**
 
-Esses projetos representam minha evolução da operação de integrações para o entendimento e construção das camadas técnicas que sustentam sistemas distribuídos.
+---
 
+## 📂 Meus Repositórios Principais
+
+🏠 **REPOSITÓRIO PRINCIPAL (README de Apresentação)**
+
+---
+
+| 🚀 Tech Real Projects | 📚 Tech Studies & Labs | 🎓 College Projects ADS |
+|----------------------|----------------------|------------------------|
+| Portfólio de projetos práticos e reais | Estudos técnicos, laboratórios e experimentos | Projetos acadêmicos, trabalhos e exercícios da faculdade |
+| [🔗 Acessar](https://github.com/roneycsilva/tech-real-projects) | [🔗 Acessar](https://github.com/roneycsilva/tech-studies-labs) | [🔗 Acessar](https://github.com/roneycsilva/college-projects-ads) |
+
+---
 
 ## 📊 GitHub Stats  
 
@@ -71,8 +81,6 @@ Esses projetos representam minha evolução da operação de integrações para 
 | 🔄 Metodologias & Colaboração | Scrum · Office 365 · Microsoft Teams · Miro · Figma |
 | 🗄️ Bancos & Arquitetura | Bancos Relacionais (MySQL) |
 
----
-
 ### 🟡 Em estudo contínuo / projetos práticos  
 
 | Área | Tecnologias |
@@ -81,8 +89,6 @@ Esses projetos representam minha evolução da operação de integrações para 
 | 💻 Linguagens | Python (em estudo) · Java (em estudo) |
 | 🗃️ Bancos & Arquitetura | NoSQL (MongoDB) |
 | 🤖 Automação & Low-code | n8n · Blip |
-
----
 
 📌 **Legenda**  
 🟢 Uso profissional / prática recorrente  
@@ -99,7 +105,5 @@ Esses projetos representam minha evolução da operação de integrações para 
 </div>
 
 <div align="center">
-
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-
 </div>
