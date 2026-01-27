@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Roney Cesar  
 
-💳 **💳 Product Operations | Integrações Técnicas | APIs | Sistemas & Dados**  
+💳 **Product Operations | Integrações Técnicas | APIs | Sistemas & Dados**  
 🎓 **Análise e Desenvolvimento de Sistemas** – Faculdade Anhanguera  
 📍 São Paulo – SP | Disponível para novos desafios  
 📫 **Contato:** roneycsilva@gmail.com  
