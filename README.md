@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Roney Cesar  
 
-💳 **Product Operations | Customer Success | Integrações & Onboarding Técnico**  
+💳 **💳 Product Operations | Integrações Técnicas | APIs | Sistemas & Dados**  
 🎓 **Análise e Desenvolvimento de Sistemas** – Faculdade Anhanguera  
 📍 São Paulo – SP | Disponível para novos desafios  
 📫 **Contato:** roneycsilva@gmail.com  
@@ -9,11 +9,11 @@
 
 ## 💡 Sobre mim  
 
-Sou um profissional de tecnologia com **perfil híbrido**, atuando na interseção entre **Produto, Operações, Customer Success e Engenharia**. Tenho experiência com **sustentação de produtos em produção**, **integrações técnicas via APIs** e **suporte a ambientes críticos**, sempre com foco em **estabilidade, escalabilidade e experiência do cliente**.
+Sou um profissional de tecnologia com perfil híbrido, atuando na interseção entre Produto, Operações e Engenharia. Tenho experiência em sustentação de produtos em produção, integrações técnicas via APIs e suporte a ambientes críticos, sempre com foco em confiabilidade, escalabilidade e experiência do cliente.
 
-Atuo como **ponte entre clientes, times técnicos e áreas de negócio**, apoiando **onboarding técnico**, análise e resolução de incidentes, validação de integrações e melhoria contínua de processos operacionais. Meu trabalho é orientado por **dados, indicadores e impacto real no cliente**.
+Atuo como ponte entre clientes, times técnicos e áreas de negócio, apoiando onboarding técnico, análise e resolução de incidentes, validação de integrações e melhoria contínua de processos operacionais.
 
-Utilizo este GitHub para compartilhar **projetos práticos, estudos e experimentos** nas áreas de **dados, APIs, cloud, automação e operações de produto**.
+Paralelamente, desenvolvo projetos práticos voltados para backend, dados, mensageria e arquitetura de sistemas, ampliando minha atuação para a construção e entendimento da camada técnica por trás das integrações que opero no dia a dia.
 
 ---
 
@@ -27,6 +27,21 @@ Utilizo este GitHub para compartilhar **projetos práticos, estudos e experiment
 - Documentação técnica e padronização de processos  
 
 ---
+
+---
+
+## 🚀 Projetos Técnicos em Destaque
+
+Além da atuação em operações de produto, utilizo este GitHub para desenvolver e documentar projetos voltados a backend, dados e arquitetura de sistemas:
+
+- 🔗 **Arquiteturas de APIs e Integração de Sistemas**
+- 🔗 **Processamento de Dados e ETL**
+- 🔗 **Mensageria Assíncrona (RabbitMQ)**
+- 🔗 **Persistência NoSQL (MongoDB)**
+- 🔗 **Deploy e ambientes em nuvem (Railway)**
+
+Esses projetos representam minha evolução da operação de integrações para o entendimento e construção das camadas técnicas que sustentam sistemas distribuídos.
+
 
 ## 📊 GitHub Stats  
 
