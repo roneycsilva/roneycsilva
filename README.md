@@ -95,15 +95,14 @@ Além da atuação em operações de produto, utilizo este GitHub para desenvolv
 🟡 Estudo contínuo / projetos práticos  
 
 ---
-
 ## 🌐 Conecte-se comigo  
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/roneycsilva/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
 <div align="center">
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
