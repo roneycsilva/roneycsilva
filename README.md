@@ -51,6 +51,7 @@ Além da atuação em operações de produto, utilizo este GitHub para desenvolv
 | Portfólio de projetos práticos e reais | Estudos técnicos, laboratórios e experimentos | Projetos acadêmicos, trabalhos e exercícios da faculdade |
 | [🔗 Acessar](https://github.com/roneycsilva/tech-real-projects) | [🔗 Acessar](https://github.com/roneycsilva/tech-studies-labs) | [🔗 Acessar](https://github.com/roneycsilva/college-projects-ads) |
 
+
 ---
 
 ## 📊 GitHub Stats  
