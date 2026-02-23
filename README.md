@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Roney Cesar  
+## Roney Cesar  
 
 💳 **Product Operations | Integrações Técnicas | APIs | Sistemas & Dados**  
 🎓 **Análise e Desenvolvimento de Sistemas** – Faculdade Anhanguera  
